@@ -15,7 +15,7 @@ form{
     display: flex;
     justify-content: end;
     align-items: center;
-    background-image: url(/img/cta.png);
+    background-image: url(./img/cta.png);
     background-repeat: no-repeat;
     background-size: cover;
     flex-wrap: wrap;
